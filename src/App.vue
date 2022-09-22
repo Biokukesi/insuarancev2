@@ -1,8 +1,8 @@
-
 <template>
   <header>
     <router-link to ='/'>
-      <h1><span>Hobbiton </span>Technologies</h1>
+      <h1><span>Hobbiton </span></h1>
+      <p>Technologies</p>
     </router-link>
   </header>
   <router-view />
